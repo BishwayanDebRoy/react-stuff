@@ -9,6 +9,9 @@ function App() {
  const addValue=()=>{
   setCounter(counter+1)
  }
+ const removeValue=() => {
+  setCounter(counter-1)
+ }
 
   return (
     <>
@@ -16,9 +19,11 @@ function App() {
      <h2>counter value:{counter}</h2>
      <button onClick={addValue}>add value</button>
      <br />
-     <button>remove vlue</button>
+     <button onClick={removeValue}>remove value</button>
     </>
   )
 }
 
 export default App
+
+//counter is updated using useState hook
