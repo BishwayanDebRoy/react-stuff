@@ -31,3 +31,4 @@ export default App
 
 //bg changer app.js is updated
 //all functionalities are written in correct manner
+//its completed

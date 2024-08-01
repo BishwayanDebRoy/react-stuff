@@ -33,3 +33,4 @@ function App() {
 export default App
 
 //counter is updated using useState hook
+//all functionalities are written correctly
