@@ -83,3 +83,6 @@ function App() {
 }
 
 export default App
+
+
+//app.js is updated for password generator
