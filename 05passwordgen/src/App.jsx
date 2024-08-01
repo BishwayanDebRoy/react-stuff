@@ -86,3 +86,4 @@ export default App
 
 
 //app.js is updated for password generator
+//all functionalities are wirtten accordingly
