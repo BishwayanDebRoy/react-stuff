@@ -12,3 +12,4 @@ function App() {
 export default App
 
 //how a  react project is made using vite is learnt
+//vite project is updated
