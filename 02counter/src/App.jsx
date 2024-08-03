@@ -34,4 +34,4 @@ export default App
 
 //counter is updated using useState hook
 //all functionalities are written correctly
-//counter is a basic project
+//counter is a basic projects
